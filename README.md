@@ -1,5 +1,25 @@
-# 💫 About Me:
-Hi, I'm Kapil Meena<br><br>I'm a software developer with a strong interest in building clean user interfaces as well as solid backend logic. I enjoy working across the stack — from crafting intuitive frontend experiences to solving core programming and system problems.<br><br>I primarily work with JavaScript, React, Node.js, and modern CSS, and I like understanding how things work end-to-end rather than in isolation.<br><br>Currently building real-world projects like **Billify** and strengthening my fundamentals for Software Development Engineer roles.<br>
+# 💫 About Me
+
+Hi, I'm **Kapil Meena** 👋
+
+🚀 **What I’m building right now**  
+Working on real-world applications that combine thoughtful UI with reliable backend logic, focusing on performance, clarity, and scalability.
+
+🤝 **Open to teaming up on**  
+Ambitious projects where good engineering and user experience both matter, whether frontend-heavy or SDE-oriented.
+
+🧩 **Areas I want to improve**  
+Designing scalable systems, structuring backend services, and writing code that stays clean as projects grow.
+
+📚 **Currently exploring**  
+Advanced React patterns, application architecture, and strengthening core fundamentals for software engineering roles.
+
+💬 **Happy to talk about**  
+JavaScript, React, frontend architecture, problem-solving approaches, and turning ideas into working products.
+
+⚡ **A small fun detail**  
+I enjoy simplifying complex code more than adding new features.
+
 
 
 # 💻 Tech Stack:
